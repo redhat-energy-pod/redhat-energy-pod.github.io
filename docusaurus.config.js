@@ -24,7 +24,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/redhat-energy-pod',
           label: 'GitHub',
           position: 'right',
         },
@@ -78,6 +78,11 @@ module.exports = {
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Red Hat. Built with Docusaurus.`,
+    },
+    colorMode: {
+      // "light" | "dark"
+      defaultMode: 'dark',
+      disableSwitch: true,
     },
   },
   presets: [
