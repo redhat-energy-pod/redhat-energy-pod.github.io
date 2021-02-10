@@ -10,7 +10,7 @@ module.exports = {
   projectName: 'redhat-energy-pod.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Red Hat Energy Pod',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
