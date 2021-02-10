@@ -8,22 +8,20 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use2',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'OpenShift Expertise',
+    imageUrl: 'img/openshift_logo.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Our team has extensive experience delivering OpenShift within the world's largest energy companies. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Automation Driven DevOps',
+    imageUrl: 'img/ansible_logo.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We use Ansible to deliver powerful automations to our customers. 
       </>
     ),
   },
